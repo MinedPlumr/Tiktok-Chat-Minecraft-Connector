@@ -9,3 +9,4 @@ Open your Minecraft chat and enter:
 ``/connect localhost``
 
 ## Troubleshooting Connection
+![Screenshot](images/connection_failed.png)
