@@ -7,3 +7,5 @@ This code for MCBE(MineCraft Bedrock Edition)
 ## How to Connect
 Open your Minecraft chat and enter:
 ``/connect localhost``
+
+## Troubleshooting Connection
