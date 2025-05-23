@@ -1,3 +1,6 @@
-# Tiktok-Chat-Minecraft-Connecter
-## How to connect?
-### Type ``/connect localhost`` in minecraft chat
+# Tiktok-Chat-Minecraft-Connector
+
+## How to Connect
+
+Open your Minecraft chat and enter:
+``/connect localhost``
