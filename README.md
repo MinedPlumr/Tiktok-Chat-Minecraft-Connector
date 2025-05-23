@@ -13,4 +13,5 @@ If it doesn't work as shown in the image below, try the following steps:
 ![Screenshot](images/connection_failed.png)
 1. Check that you typed ``/connect localhost`` correctly.
 2. Open **Command Prompt** as administrator and type ``CheckNetIsolation LoopbackExempt -a -n="Microsoft.MinecraftUWP_8wekyb3d8bbwe"``
+
 If it still doesn't work, please add ``MinedPlumr`` on Discord and contact me
